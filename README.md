@@ -13,3 +13,7 @@ Estudando muito sobre estes temas
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/hugo-luiz-67273bb0/)
 * [Medium](https://medium.com/@hlsvalle)
+
+## Projetos:
+
+*Analisando dados do Airbnb de Barcelona: 

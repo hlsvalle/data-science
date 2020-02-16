@@ -16,4 +16,4 @@ Estudando muito sobre estes temas
 
 ## Projetos:
 
-*Analisando dados do Airbnb de Barcelona: 
+*Analisando dados do Airbnb de Barcelona: http://bit.ly/39DDXrg

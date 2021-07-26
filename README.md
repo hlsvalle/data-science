@@ -7,8 +7,8 @@
 # Hugo Valle
 <sub>*Engenheiro da Computação*</sub>
 
-Atualmente trabalho na Secretaria Municipal de Saúde de Campo Grande - MS, onde sou Coordenador Geral de Tecnologia da Informação. Sou apaixonado por DataScience, Machine Learning, Python; 
-Estudando muito sobre estes temas
+Atualmente desenvolvendo projetos em tecnologia para Startups. Sou apaixonado por DataScience, Machine Learning, Python; 
+Estudando muito sobre estes temas.
 
 **Background in:** Python, Machine Learning, Linux, Windows.
 

@@ -7,8 +7,7 @@
 # Hugo Valle
 <sub>*Engenheiro da Computação*</sub>
 
-Atualmente desenvolvendo projetos em tecnologia para Startups. Sou apaixonado por DataScience, Machine Learning, Python; 
-Estudando muito sobre estes temas.
+Atualmente desenvolvendo projetos em tecnologia para Startups. Sou apaixonado por DataScience, Machine Learning, Python;
 
 **Background in:** Python, Machine Learning, Linux, Windows.
 

@@ -20,3 +20,5 @@ Atualmente desenvolvendo projetos em tecnologia para Startups. Sou apaixonado po
 **Analisando dados do Airbnb de Barcelona:** http://bit.ly/39DDXrg
 
 **Analisando dados sobre a violência do Rio de Janeiro:** http://bit.ly/2SPwVJ1
+
+**Analisando dados sobre doenças cardiovasculares:** http://bit.ly/2T9Jlgs

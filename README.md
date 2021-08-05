@@ -22,3 +22,5 @@ Atualmente desenvolvendo projetos em tecnologia para Startups. DataScience, Mach
 **Analisando dados sobre a violência do Rio de Janeiro:** http://bit.ly/2SPwVJ1
 
 **Analisando dados sobre doenças cardiovasculares:** http://bit.ly/2T9Jlgs
+
+**Analisando dados sobre COVID-19:** https://bit.ly/37udKfr
